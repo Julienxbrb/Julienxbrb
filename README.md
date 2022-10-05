@@ -67,7 +67,7 @@ I’m a Junior Front End Developer working remotely since 2021.
 <br/>  
 
 
-## Github Stats  
+## Some Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Julienxbrb&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -85,6 +85,7 @@ I’m a Junior Front End Developer working remotely since 2021.
 
 <br/>  
 
+## My Spotify 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cng3ltvstt5ifxzn8hjt51jt7&cover_image=true&theme=novatorem&show_offline=false&bar_color=4496ee&bar_color_cover=true" /></div>  
 
 <br />
