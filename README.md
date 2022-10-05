@@ -90,3 +90,9 @@ I’m a Junior Front End Developer working remotely since 2021.
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<br />
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cng3ltvstt5ifxzn8hjt51jt7&cover_image=true&theme=novatorem&show_offline=false&bar_color=4496ee&bar_color_cover=true" /></div>  
+
+<br />
