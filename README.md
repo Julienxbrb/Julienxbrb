@@ -33,7 +33,7 @@ I’m a Full-Stack Developer working remotely since 2021.
 - 🔭 I’m currently working on a One Piece Fandom.  
   
 
-- 🌱 I’m currently learning JavaScript  
+- 🌱 I’m currently learning JavaScript and React JS
 
 
 </td><td valign="top" width="50%">
