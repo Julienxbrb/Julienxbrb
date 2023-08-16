@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I’m a Full-Stack Developer working remotely since 2021.
+I’m a Full-Stack Developer working remotely since 2021. <br/>
 My portfolio here : http://julien-bourbao.com/
   
 
