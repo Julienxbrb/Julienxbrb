@@ -31,10 +31,10 @@ My portfolio here : http://julien-bourbao.fr
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a One Piece Fandom.  
+- 🔭 I’m currently working on 3h33agency.fr project  
   
 
-- 🌱 I’m currently learning JavaScript and React JS
+- 🌱 I’m currently learning new stacks
 
 
 </td><td valign="top" width="50%">
